@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reference/Ultra-Light-Fast-Generic-Face-Detector-1MB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reference/yolov5-deepsparse-blogpost" vcs="Git" />
+  </component>
+</project>
