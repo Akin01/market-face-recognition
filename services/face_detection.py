@@ -206,7 +206,7 @@ class FaceDetection:
         self.ort_session = ort.InferenceSession(self.model_path, sess_options=session_options)
         self.input_name = self.ort_session.get_inputs()[0].name
 
-    def detect(self, frame, image, threshold: float = 0.7):
+    def detect(self, frame, image, threshold: float = 0.7, iou_threshold: float = 0.5):
         confidences, boxes = self.ort_session.run(None, {
             self.input_name: image
         })
@@ -215,5 +215,6 @@ class FaceDetection:
             frame.shape[0],
             confidences,
             boxes,
-            threshold
+            threshold,
+            iou_threshold
         )

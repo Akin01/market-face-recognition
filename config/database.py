@@ -1,0 +1,4 @@
+QDRANT_HOST = "localhost"
+QDRANT_PORT = 6333
+VECTOR_SIZE = 128
+QDRANT_COLLECTION_NAME = "face_market_member"

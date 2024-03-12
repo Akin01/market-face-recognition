@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26407ed9-01c3-44d7-bf89-191d8642d9ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/market-face-recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/market-face-recognition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reference/Ultra-Light-Fast-Generic-Face-Detector-1MB/run_video_face_detect_onnx.py" beforeDir="false" afterPath="$PROJECT_DIR$/reference/Ultra-Light-Fast-Generic-Face-Detector-1MB/run_video_face_detect_onnx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/face_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/face_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/video_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/video_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reference/Ultra-Light-Fast-Generic-Face-Detector-1MB" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +45,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2dBpOSOMGa3uoHGXYcshcr06ysC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/market-face-recognition/models&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -85,6 +92,9 @@
       <workItem from="1709513302166" duration="15288000" />
       <workItem from="1709541838025" duration="6350000" />
       <workItem from="1709629131841" duration="7774000" />
+      <workItem from="1709856141992" duration="324000" />
+      <workItem from="1709914784013" duration="1128000" />
+      <workItem from="1710238350533" duration="17364000" />
     </task>
     <servers />
   </component>
